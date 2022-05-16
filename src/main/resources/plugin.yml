@@ -1,0 +1,7 @@
+name: Latte
+version: '${project.version}'
+main: me.seanduffie.latte.Latte
+api-version: 1.18
+prefix: Latte-Log
+authors: [ SeanDuffie ]
+description: A Minecraft Paper plugin for TAMU Artists, adds various Art and Aggie related features
