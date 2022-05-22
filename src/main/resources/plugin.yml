@@ -5,3 +5,7 @@ api-version: 1.18
 prefix: Kaldi
 authors: [ SeanDuffie ]
 description: A Minecraft Paper plugin for TAMU Artists, adds various Art and Aggie related features
+commands:
+  brew-coffee:
+    description: Brews a standard Cup o' Joe
+    usage: /<command>
